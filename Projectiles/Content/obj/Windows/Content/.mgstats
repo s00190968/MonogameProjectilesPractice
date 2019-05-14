@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/parad/Dropbox/GameProjects/Monogame/Projectiles/Projectiles/Content/Sprites/player.png","C:/Users/parad/Dropbox/GameProjects/Monogame/Projectiles/Projectiles/Content/bin/Windows/Content/Sprites/player.xnb","TextureProcessor","Texture2DContent",795,5405,0.2343166
+"C:/Users/parad/Dropbox/GameProjects/Monogame/Projectiles/Projectiles/Content/Sprites/projectileBubble.png","C:/Users/parad/Dropbox/GameProjects/Monogame/Projectiles/Projectiles/Content/bin/Windows/Content/Sprites/projectileBubble.xnb","TextureProcessor","Texture2DContent",706,2585,0
